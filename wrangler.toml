@@ -1,0 +1,5 @@
+name = "todo-test"
+compatibility_date = "2026-07-02"
+
+[assets]
+directory = "."
