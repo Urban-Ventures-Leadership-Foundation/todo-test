@@ -13,3 +13,6 @@ Open `index.html` in your browser, or serve the folder with any static file serv
 - `index.html` — page structure
 - `style.css` — styling
 - `app.js` — app logic (add/toggle/delete/filter, localStorage persistence)
+
+
+-Edit UV account
